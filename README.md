@@ -33,4 +33,4 @@ Esercitarsi sulla centralizzazione
 <img src="./Readme-Cover-Img.png">
 
 ---
-All'interno della repo sono hostati i video e gli screenshot forniti per la creazione del codice.
+All'interno della repo sono hostati gli screenshot forniti per la creazione del codice.
