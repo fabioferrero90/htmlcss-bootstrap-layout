@@ -30,7 +30,7 @@ Esercitarsi sulla centralizzazione
 
 ---
 
-<img src="./readme-cover-img.png">
+<img src="./Readme-Cover-Img.png">
 
 ---
 All'interno della repo sono hostati i video e gli screenshot forniti per la creazione del codice.
